@@ -48,7 +48,7 @@
 ![image](https://github.com/priyadharshini225/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/138849213/476e736e-da5c-4b23-b1e2-4e96eae06c08)
 
 
-### Name:RSHAN D
+### Name:DHARSHAN D
 ### Register Number:212223230045
 
 ## Result: 
